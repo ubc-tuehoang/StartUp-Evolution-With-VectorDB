@@ -4,7 +4,7 @@
 - Strive for excellence
 - Explore together & unlock the world's knowledge
 
-# StartUp-Evolution-With-VectorDB
+# StartUp Evolution With VectorDB
 From Cradle to Grave: Tracing the Evolution of a Start-up Company Using VectorDB
 
 Background: In the rapidly evolving start-up ecosystem, identifying the factors that contribute to a company's success or failure is paramount for stakeholders. The integration of Vector Database (Vector DB) analytics into the study of start-up lifecycles and traits presents an innovative approach to uncovering these critical success factors. Vector DB, with its ability to manage and analyze complex datasets, offers a unique lens through which the lifecycle stages and predictive traits of start-ups can be examined.
